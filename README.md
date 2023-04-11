@@ -43,7 +43,7 @@
 
 2.點擊"Install from URL"，注意"URL for extension's git repository"下方的輸入框
 
-3.粘貼或輸入本Git倉庫地址`https://github.com/VinsonLaro/stable-diffusion-webui-chinese`
+3.黏貼或輸入本Git倉庫地址`https://github.com/empiretactics/stable-diffusion-webui-chinese`
 
 4.點擊下方的黃色按鈕"Install"即可完成安裝，然後重啟WebUI(點擊"Install from URL"左方的"Installed"，然後點擊黃色按鈕"Apply and restart UI"網頁下方的"Reload UI"完成重啟)
 
@@ -53,7 +53,7 @@
 
 ### 方法2：直接複製翻譯好的本地化模板
 
-1.在任意目錄下使用`git clone https://github.com/VinsonLaro/stable-diffusion-webui-chinese`
+1.在任意目錄下使用`git clone https://github.com/empiretactics/stable-diffusion-webui-chinese`
 
 2.進入下載好的文件夾,把"localizations"文件夾內的"Chinese-All.json"和"Chinese-English.json"複製到"stable-diffusion-webui\localizations"目錄下
 
